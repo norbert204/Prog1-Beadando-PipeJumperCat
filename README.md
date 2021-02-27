@@ -8,6 +8,6 @@ Ugrás: <kbd>szóköz<kbd>
 
 ---
 ### Forrásjegyzék ###
-[Háttérkép](https://peukalo.files.wordpress.com/2011/04/smw-bg-clouds1.png) https://peukalo.files.wordpress.com/2011/04/smw-bg-clouds1.png
-[Csövek](https://www.spriters-resource.com/resources/sheet_icons/5/4603.png) https://www.spriters-resource.com/resources/sheet_icons/5/4603.png
+Háttérkép: <https://peukalo.files.wordpress.com/2011/04/smw-bg-clouds1.png>  return
+Csövek: <https://www.spriters-resource.com/resources/sheet_icons/5/4603.png>  return
 (Háttér és a Csövek eredetileg a Super Mario World játékból vannak
